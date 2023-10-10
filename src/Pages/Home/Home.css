@@ -1,0 +1,112 @@
+.Home{
+    font-family: Poppins;
+}
+
+h1{
+    font-size: 45px;
+    font-weight: 500;
+    line-height: 58px;
+}
+
+.imgBieres img{
+    width: 100%;
+    height: auto;
+    border-radius: 0px;
+}
+
+
+.Services{
+    padding:  10vh 0 10vh 0;
+    background-color: #26424D;
+    color: #ECF1E7;
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 29px;
+}
+
+img{
+    border-radius: 25px;
+}
+
+.services.wrapper{
+    display: flex;
+    justify-content:space-evenly;
+    padding-top: 10vh;
+}
+.services button{
+    background-color: #ECF1E7;
+    color: #26424D;
+    width: 200px;
+    height: 50px;
+}
+.services button:hover{
+    background-color: #C3CDC7
+}
+
+
+.cheeseAndBeers{
+    padding:  10vh 0 10vh 0;
+}
+
+.cheeseAndBeers h1{
+    text-align: left;
+    margin-left: 20vw;
+}
+
+.croquetteImg{
+    margin-left: 15vw;
+    display: flex;
+    background-color: red;
+    justify-content: space-evenly;
+}
+
+.imgG{
+    margin-right: 2.5vw;
+}
+
+.imgD{
+    margin-left: 2.5vw;
+}
+
+.cheeseAndBeers{
+    background-color: #ECF1E7;
+    color: #26424D;
+}
+
+.croquetteWrapper{
+    display: flex;
+    padding-top: 5vh;
+
+    
+}
+
+.croquetteTxt{
+    margin-left: 10vw;
+    text-align: center;
+    width: 15vw;
+    font-size: 16px;
+    font-family: sans-serif;
+    line-height: 29px;
+}
+
+
+.cheeseAndBeers button{
+    background-color: #26424D;
+    color: #ECF1E7;
+    width: 200px;
+    height: 50px;
+}
+
+.cheeseAndBeers button:hover{
+    background-color: #4D646B;
+}
+
+button{
+    margin-top: 20px;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+button:hover{
+    cursor: pointer;
+}
